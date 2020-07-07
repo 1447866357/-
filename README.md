@@ -3,7 +3,7 @@
 
 
 # Accepted Papers
-[1] [Decomposed Deep Reinforcement Learning for Robotic Control](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Decomposed%20Deep%20Reinforcement%20Learning%20for%20Robotic%20Control.pdf)[AAMAS2020]
+[1] [Decomposed Deep Reinforcement Learning for Robotic Control](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Decomposed%20Deep%20Reinforcement%20Learning%20for%20Robotic%20Control.pdf)**(AAMAS2020)**
 
 [2] [Interactive RL via Online Human Demonstrations](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Interactive%20RL%20via%20Online%20Human%20Demonstrations.pdf)[AAMAS2020]
 
