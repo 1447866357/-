@@ -1,6 +1,6 @@
 # Scientific-research-achievements
 
-Paper：
+Paper：\\
 [1][AAMAS2020][Decomposed Deep Reinforcement Learning for Robotic Control](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Decomposed%20Deep%20Reinforcement%20Learning%20for%20Robotic%20Control.pdf)
 
 [2][AAMAS2020][Interactive RL via Online Human Demonstrations](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Interactive%20RL%20via%20Online%20Human%20Demonstrations.pdf)
