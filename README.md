@@ -1,6 +1,6 @@
 
 
-# Paper：
+## Paper：
 
 ### Accepted Papers
 [1][Decomposed Deep Reinforcement Learning for Robotic Control](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Decomposed%20Deep%20Reinforcement%20Learning%20for%20Robotic%20Control.pdf)[AAMAS2020]
@@ -18,7 +18,7 @@ Continuous Control](https://github.com/1447866357/Scientific-research-achievemen
 
 
 
-# Prize：
+## Prize：
 [1[National scholarship for graduate students](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/2018%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91.jpg)
 
 [2[Best paper award of Workshop@IJCAI2019](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/2018%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91.jpg)
