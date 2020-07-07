@@ -15,11 +15,11 @@ Continuous Control](https://github.com/1447866357/Scientific-research-achievemen
 
 [5][Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/BMC2019%E2%80%94Incorporating%20causal%20factors%20into.pdf)[BMC Medical]
 # Submitted Papers 
-[1][Coordinated Multiagent Reinforcement Learning for Teams of Mobile Sensing Robots through Online Knowledge Transfer][IEEE Transactions on Systems, Man and Cybernetics: Systems]
+[1]Coordinated Multiagent Reinforcement Learning for Teams of Mobile Sensing Robots through Online Knowledge Transfer[IEEE Transactions on Systems, Man and Cybernetics: Systems]
 
-[2][Dueling Weight Doubly Robust Off-policy Evaluation in Reinforcement Learning])[Neurips 2020]
+[2]Dueling Weight Doubly Robust Off-policy Evaluation in Reinforcement Learning[Neurips 2020]
 
-[3][Structurally Decomposed Deep Reinforcement Learning for Continuous Robotic Control][Neurips 2020]
+[3] Structurally Decomposed Deep Reinforcement Learning for Continuous Robotic Control[Neurips 2020]
 
 # Prize：
 [1[National scholarship for graduate students](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/2018%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91.jpg)
