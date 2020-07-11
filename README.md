@@ -13,7 +13,7 @@ Continuous Control](https://github.com/1447866357/Scientific-research-achievemen
 
 [4] [Distributed Multiagent Reinforcement Learning on Coordination Graphs](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/SSMCS2019%E2%80%94Distributed%20Multiagent%20Reinforcement%20Learning.pdf)**(SSMCS2019)**
 
-[5] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/BMC2019%E2%80%94Incorporating%20causal%20factors%20into.pdf)**(BMC Medical)**
+[5] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0755-6)**(BMC Medical)**
 
 [6] [Supervised-actor-critic reinforcement learning for intelligent mechanical ventilation and sedative dosing in intensive care units](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1120-5)**(BMC Medical)**
 
