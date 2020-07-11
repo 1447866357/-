@@ -15,6 +15,8 @@ Continuous Control](https://github.com/1447866357/Scientific-research-achievemen
 
 [5] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/BMC2019%E2%80%94Incorporating%20causal%20factors%20into.pdf)**(BMC Medical)**
 
+[6] [Supervised-actor-critic reinforcement learning for intelligent mechanical ventilation and sedative dosing in intensive care units](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1120-5)**(BMC Medical)**
+
 
 # Prize：
 [1] [National scholarship for graduate students](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/2018%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91.jpg)
