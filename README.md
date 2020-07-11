@@ -3,9 +3,9 @@
 
 
 # Accepted Papers
-[1] [Decomposed Deep Reinforcement Learning for Robotic Control.](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Decomposed%20Deep%20Reinforcement%20Learning%20for%20Robotic%20Control.pdf)**(AAMAS2020)**
+[1] [Decomposed Deep Reinforcement Learning for Robotic Control.](https://dl.acm.org/doi/abs/10.5555/3398761.3398998)**(AAMAS2020)**
 
-[2] [Interactive RL via Online Human Demonstrations.](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/AAMAS2020%E2%80%94Interactive%20RL%20via%20Online%20Human%20Demonstrations.pdf)**(AAMAS2020)**
+[2] [Interactive RL via Online Human Demonstrations.](https://dl.acm.org/doi/10.5555/3398761.3399076)**(AAMAS2020)**
 
 
 [3] [D3PG: Decomposed Deep Deterministic Policy Gradient for
@@ -13,9 +13,9 @@ Continuous Control](https://github.com/1447866357/Scientific-research-achievemen
 
 [4] [Distributed Multiagent Reinforcement Learning on Coordination Graphs](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/SSMCS2019%E2%80%94Distributed%20Multiagent%20Reinforcement%20Learning.pdf)**(SSMCS2019)**
 
-[5] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0755-6)**(BMC Medical)**
+[5] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV.](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0755-6)**(BMC Medical)**
 
-[6] [Supervised-actor-critic reinforcement learning for intelligent mechanical ventilation and sedative dosing in intensive care units](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1120-5)**(BMC Medical)**
+[6] [Supervised-actor-critic reinforcement learning for intelligent mechanical ventilation and sedative dosing in intensive care units.](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1120-5)**(BMC Medical)**
 
 
 # Prize：
