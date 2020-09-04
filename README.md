@@ -3,19 +3,26 @@
 
 
 # Accepted Papers
-[1] [Decomposed Deep Reinforcement Learning for Robotic Control.](https://dl.acm.org/doi/abs/10.5555/3398761.3398998)**(AAMAS2020)**
+[1] [Decomposed Deep Reinforcement Learning for Robotic Control.](https://dl.acm.org/doi/abs/10.5555/3398761.3398998)**(AAMAS 2020)**
 
-[2] [Interactive RL via Online Human Demonstrations.](https://dl.acm.org/doi/10.5555/3398761.3399076)**(AAMAS2020)**
-
+[2] [Hierarchical Reinforcement Learning for Epidemics Interventions.](https://prescriptive-analytics.github.io/file/5-YinzhaoDong.pdf)**(Workshop@KDD 2020)**
 
 [3] [D3PG: Decomposed Deep Deterministic Policy Gradient for
-Continuous Control](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/DAI_2020_D3PG%20Decomposed%20Deep%20Deterministic%20Policy%20Gradient%20for.pdf)**(DAI2020)**
+Continuous Control](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/DAI_2020_D3PG%20Decomposed%20Deep%20Deterministic%20Policy%20Gradient%20for.pdf)**(DAI 2020)**
 
-[4] [Distributed Multiagent Reinforcement Learning on Coordination Graphs](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/SSMCS2019%E2%80%94Distributed%20Multiagent%20Reinforcement%20Learning.pdf)**(SSMCS2019)**
+[4] [Distributed Multiagent Reinforcement Learning on Coordination Graphs](https://github.com/1447866357/Scientific-research-achievements/blob/master/Paper/SSMCS2019%E2%80%94Distributed%20Multiagent%20Reinforcement%20Learning.pdf)**(Workshop@IJCAI 2019)**
 
-[5] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV.](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0755-6)**(BMC Medical)**
+[5] [Interactive RL via Online Human Demonstrations.](https://dl.acm.org/doi/10.5555/3398761.3399076)**(AAMAS 2020)**
+
 
 [6] [Supervised-actor-critic reinforcement learning for intelligent mechanical ventilation and sedative dosing in intensive care units.](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1120-5)**(BMC Medical)**
+
+
+[7] [Distributed multi-agent deep reinforcement learning for cooperative multi-robot pursuit.](https://ieeexplore.ieee.org/abstract/document/9175184/)**(ITE)**
+
+
+
+[8] [Incorporating Causal Factors into Reinforcement Learning for Dynamic Treatment Regimes in HIV.](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0755-6)**(BMC Medical)**
 
 
 # Prize：
