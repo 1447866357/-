@@ -25,7 +25,7 @@ Continuous Control](https://github.com/1447866357/Scientific-research-achievemen
 
 [3] [The 15th National Graduate Student Mathematical Contest in modeling](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/%E5%8D%8E%E4%B8%BA%E6%9D%AF%E5%85%A8%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B.jpg)
 
-[4] [National Computer Rank Examination two level C language certificate](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7.jpg)
+
 
 [5] [National College Mathematical Contest in Modeling](https://github.com/1447866357/Scientific-research-achievements/blob/master/Prize/%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B.jpg)
 
